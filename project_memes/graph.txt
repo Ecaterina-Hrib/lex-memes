@@ -1,0 +1,41 @@
+1. Persuasion
+  2.1. Ethos
+    3.1 Ad Hominem
+        - Name calling
+        - Doubt
+        - Smears
+        - Reductio ad Hitlerum
+        *
+        - Bandwagon
+        - Appeal to Authority
+        - Glittering Generalities
+        *- Whataboutism
+    *
+    - Transfer
+
+  2.2. Pathos
+    - Appeal to Emotion (Visual)
+    - Exaggeration
+    - Loaded language
+    - Flag waving
+    - Appeal to fear
+    *
+    - Transfer
+  2.3. Logos
+    3.2 Justification
+        - Slogans
+        *
+        - Flag waving
+        - Appeal to fear
+        *
+        - Bandwagon
+        - Appeal to Authority
+    3.3. Reasoning
+        4.1. Distraction
+            - Straw Man
+            - Red Herring
+            - Whataboutism
+        4.2. Simplification
+            - Casual Oversimplification
+            - Black & White Fallacy
+            - Thought Terminating Cliche
